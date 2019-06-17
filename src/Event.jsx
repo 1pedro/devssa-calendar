@@ -58,17 +58,24 @@ class Event extends React.Component {
                   }
             }
           >
-            <Modal.Title id="event-header">{this.props.title}</Modal.Title>
+            <Modal.Title id="event-header">
+              <i className="fa fa-calendar"> </i>&nbsp;{this.props.title}
+            </Modal.Title>
           </Modal.Header>
           <Modal.Body>
             {ReactHtmlParser(this.props.description)}
             <br />
 
-            <span class="badge badge-secondary">{this.props.event_url}</span>
+            <span class="badge badge-secondary">
+              {" "}
+              <i className="fa fa-link"> </i> &nbsp;
+              {this.props.event_url}
+            </span>
           </Modal.Body>
           <Modal.Footer>
             <a
               href={this.props.event_url}
+              target="_blank"
               id="event-link"
               className="btn btn-primary btn-lg btn-block"
               style={
@@ -81,7 +88,8 @@ class Event extends React.Component {
                   : {}
               }
             >
-              Ir pro site do evento
+              <i className="fa fa-external-link"> </i> &nbsp;Ir pro site do
+              evento
             </a>
           </Modal.Footer>
         </Modal>
