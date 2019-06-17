@@ -1,1 +1,23 @@
-[]
+[  {
+    "id": 2,
+    "title": "Meu Evento",
+    "start": "2019-06-29 22:08:08",
+    "end": "2019-06-30 23:59:59",
+    "allDay": false,
+    "color": "green",
+    "description_type": "html",
+    "description": "<span> Te esperamos lá! </span>",
+    "event_url": "http://google.com"
+  },
+  {
+    "id": 2,
+    "title": "Evento de Exemplo",
+    "start": "2019-06-29 22:08:08",
+    "end": "2019-06-30 23:59:59",
+    "allDay": false,
+    "color": "rgb(0, 185, 179)",
+    "description_type": "html",
+    "description": "<span> Descrição usando html</span>",
+    "event_url": "http://google.com"
+  }
+]
