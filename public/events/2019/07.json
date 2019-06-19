@@ -1,2 +1,46 @@
 [
+  {
+    "id": 1,
+    "title": "Treinamento .NET - Solutis",
+    "start": "2019-07-06 09:00:00",
+    "end": "2019-07-06 18:00:00",
+    "allDay": false,
+    "color": "green",
+    "description_type": "html",
+    "description": "<h2> Prática - Laboratório da Unifacs</h2> <img src='https://s3.amazonaws.com/gupy5/production/companies/167/images/jobs/51221/20190614112759383_picture.jpg' />",
+    "event_url": "https://solutis.gupy.io/jobs/51221?utm_campaign=engajamento_solutis_1906&utm_medium=email&utm_source=RD+Station" 
+  },
+    {
+    "id": 2,
+    "title": "Treinamento .NET - Solutis",
+    "start": "2019-07-13 09:00:00",
+    "end": "2019-07-13 18:00:00",
+    "allDay": false,
+    "color": "green",
+    "description_type": "html",
+    "description": "<h2> Prática - Laboratório da Unifacs </h2> <img src='https://s3.amazonaws.com/gupy5/production/companies/167/images/jobs/51221/20190614112759383_picture.jpg' />",
+    "event_url": "https://solutis.gupy.io/jobs/51221?utm_campaign=engajamento_solutis_1906&utm_medium=email&utm_source=RD+Station" 
+  },
+      {
+    "id": 3,
+    "title": "Treinamento .NET - Solutis",
+    "start": "2019-07-20 09:00:00",
+    "end": "2019-07-20 18:00:00",
+    "allDay": false,
+    "color": "green",
+    "description_type": "html",
+    "description": "<h2> Soft skills - Sede da Solutis </h2> <img src='https://s3.amazonaws.com/gupy5/production/companies/167/images/jobs/51221/20190614112759383_picture.jpg' />",
+    "event_url": "https://solutis.gupy.io/jobs/51221?utm_campaign=engajamento_solutis_1906&utm_medium=email&utm_source=RD+Station" 
+  },
+  {
+    "id": 4,
+    "title": "Treinamento .NET - Solutis",
+    "start": "2019-07-27 09:00:00",
+    "end": "2019-07-27 18:00:00",
+    "allDay": false,
+    "color": "green",
+    "description_type": "html",
+    "description": "<h2> Prática e encerramento - Sede da Solutis </h2> <img src='https://s3.amazonaws.com/gupy5/production/companies/167/images/jobs/51221/20190614112759383_picture.jpg' />",
+    "event_url": "https://solutis.gupy.io/jobs/51221?utm_campaign=engajamento_solutis_1906&utm_medium=email&utm_source=RD+Station" 
+  }
 ]
