@@ -115,3 +115,7 @@ footer .container {
   font-style: italic;
   font-weight: bold;
 }
+
+.modal-body > img {
+  width: 100% !important;
+}
