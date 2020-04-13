@@ -1,0 +1,13 @@
+[
+  {
+    "id": 3,
+    "title": "ENSI 2019 - IX ENCONTRO DE SEGURANÇA EM INFORMÁTICA",
+    "start": "2019-09-25 08:00:00",
+    "end": "2019-09-25 18:00:00",
+    "allDay": true,
+    "color": "rgb(209, 65, 161)",
+    "description_type": "html",
+    "description": "<img src='https://ensi.pop-ba.rnp.br/2019/images/banner1.jpg'> <p> O CERT.Bahia realiza no dia 25 de Setembro de 2019, na Escola Politécnica da Universidade Federal da Bahia, o IX Encontro de Segurança em Informática do CERT.Bahia. O EnSI visa orientar e conscientizar a comunidade baiana sobre as questões relacionadas à segurança em sistemas de informação, navegação na Internet, redes sociais, e-mails, dentre outros, através de palestras e material educativo.</p>",
+    "event_url": "https://ensi.pop-ba.rnp.br/2019/"
+  }
+]

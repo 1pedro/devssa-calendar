@@ -1,0 +1,13 @@
+[
+  {
+    "id": 9,
+    "title": "Hackaton Sanar",
+    "start": "2019-06-29 22:08:08",
+    "end": "2019-06-30 23:59:59",
+    "allDay": false,
+    "color": "rgb(0, 185, 179)",
+    "description_type": "html",
+    "description": "<h3>  Nosso Hackathon </h3> <span style='font-weight: 400; font-style: normal; background-color: rgb(255, 255, 255); color: rgb(85, 85, 85);'>Aqui na <strong>Sanar</strong> gostamos demais de<strong>&nbsp;desafios</strong>, de <strong>resolver problemas</strong> e de<strong> sair da zona de conforto</strong>. Esse hackathon é um <strong>evento anual</strong>, feito para desafiar os participantes a <strong>resolverem problemas da nossa sociedade</strong>. A edição de 2019 acontecerá nos dias<strong> 29 e 30 de junho</strong>, aqui na Sanar, em <strong>Salvador</strong>, a partir das <strong>8h</strong>. &nbsp;</span>",
+    "event_url": "https://hackathon.sanar.tech/"
+  }
+]
