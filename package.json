@@ -46,7 +46,7 @@
     "@fullcalendar/react": "^4.1.0",
     "axios": "^0.21.1",
     "fs": "0.0.1-security",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "pre-build-webpack": "^0.1.0",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.9",
